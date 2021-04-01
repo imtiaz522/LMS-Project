@@ -1,1 +1,2 @@
 Core Functionality
+Added Registration form
